@@ -9,10 +9,10 @@
 ## 🚀 **Proyectos Destacados**  
 📂 *Explora algunos de mis proyectos más recientes:*  
 
-- **[Project Manager](#)** - Sistema para gestionar proyectos con enfoque en productividad.  
-- **[E-Commerce API](#)** - API escalable para tiendas en línea con soporte de autenticación y carritos de compra.  
-- **[Famindex](#)** - Aplicación para la gestión de información personal y familiar.  
-- **[GamifyTasks](#)** - Convierte tareas diarias en un juego divertido y motivador.  
+- **[Project Manager](https://splytin.com)** - Sistema para gestionar proyectos con enfoque en productividad.  
+- **[E-Commerce API](https://api.splytin.com)** - API escalable para tiendas en línea con soporte de autenticación y carritos de compra.  
+- **[Famindex](https://famindex.com/)** - Aplicación para la gestión de información personal y familiar.  
+- **[Music Famindex](https://music.famindex.com/)** - Canal de música.  
 
 ---
 
@@ -26,7 +26,7 @@
 - **Bases de Datos:**  
   `MySQL`, `PostgreSQL`, `MongoDB`.  
 - **Herramientas:**  
-  `Git`, `Docker`, `Figma`, `Visual Studio Code`.  
+  `Git`, `Docker`, `Figma`, `Visual Studio Code`, `PhpStorm`, `PyCharm`.  
 
 ---
 
@@ -39,9 +39,9 @@
 ---
 
 ## 🌍 **Conéctate Conmigo**  
-🌐 **Portafolio:** [Enlace a tu portafolio aquí](#)
+🌐 **Portafolio:** [-](#)
 📧 **Email:** doriandarren1@gmail.com  
-🐦 **Twitter:** [@dorian_darren](https://twitter.com/dorian_darren)  
+🐦 **Twitter:** [@doriandarren](https://twitter.com/doriandarren)  
 🔗 **LinkedIn:** [Perfil profesional](https://linkedin.com/in/dorian-darren)  
 
 ---
