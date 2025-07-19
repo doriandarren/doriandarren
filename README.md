@@ -22,11 +22,11 @@
 - **Lenguajes:**  
   `JavaScript`, `Python`, `PHP`, `C++`, `Java`.  
 - **Frameworks y Librerías:**  
-  `Vue.js`, `Laravel`, `Django`, `Bootstrap`, `Tailwind CSS`.  
+  `React`, `Laravel`, `Tailwind CSS`, `Django`  
 - **Bases de Datos:**  
   `MySQL`, `PostgreSQL`, `MongoDB`.  
 - **Herramientas:**  
-  `Git`, `Docker`, `Figma`, `Visual Studio Code`, `PhpStorm`, `PyCharm`.  
+  `Git`, `Docker`, `Visual Studio Code`, `PhpStorm`, `PyCharm`.  
 
 ---
 
