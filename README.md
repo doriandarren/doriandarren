@@ -9,10 +9,10 @@
 ## 🚀 **Proyectos Destacados**  
 📂 *Explora algunos de mis proyectos más recientes:*  
 
-- **[Project Manager](https://splytin.com/login)** - Sistema para gestionar proyectos con enfoque en productividad.  
-- **[E-Commerce API](https://api.splytin.com)** - API escalable para tiendas en línea con soporte de autenticación y carritos de compra.  
-- **[Famindex](https://famindex.com/)** - Aplicación para la gestión de información personal y familiar.  
-- **[Music Famindex](https://music.famindex.com/)** - Canal de música.  
+- **[Project Manager](https://splytin.com/login) target="_blank"** - Sistema para gestionar proyectos con enfoque en productividad.  
+- **[E-Commerce API](https://api.splytin.com) target="_blank"** - API escalable para tiendas en línea con soporte de autenticación y carritos de compra.  
+- **[Famindex](https://famindex.com/) target="_blank"** - Aplicación para la gestión de información personal y familiar.  
+- **[Music Famindex](https://music.famindex.com/) target="_blank"** - Canal de música.  
 
 ---
 
